@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 • A quick learner and motivated individual, eager to work on innovative projects, collaborate with industry professionals, and continuously adapt to emerging technologies
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
