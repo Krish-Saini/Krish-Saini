@@ -1,5 +1,5 @@
 [# 💫 About Me:
-Hii there!👋🏻 I'm Krish Saini.<br><br>• Computer Science and Engineering student at Chitkara University with a strong foundation in Data Structures and Algorithms (C++) and growing knowledge of Machine Learning concepts  <br>• Passionate about problem-solving and software development, with a keen interest in applying Machine Learning to create intelligent, data-driven solutions  <br>• A quick learner and motivated individual, eager to work on innovative projects, collaborate with industry professionals, and continuously adapt to emerging technologies<br>](https://instagram.com/https://www.instagram.com/aboutkrish/)
+Hii there!👋🏻 I'm Krish Saini.<br><br>• Computer Science and Engineering student at Chitkara University with a strong foundation in Data Structures and Algorithms (C++) and growing knowledge of Machine Learning concepts  <br>• Passionate about problem-solving and software development, with a keen interest in applying Machine Learning to create intelligent, data-driven solutions  <br>• A quick learner and motivated individual, eager to work on innovative projects, collaborate with industry professionals, and continuously adapt to emerging technologies<br>]
 
 
 ## 🌐 Socials:
